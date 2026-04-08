@@ -1,0 +1,16 @@
+# 최적화 & 데이터
+numpy>=1.24.0
+pandas>=2.0.0
+
+# UI
+streamlit>=1.28.0
+
+# 패킷 캡처 (나중에 사용)
+scapy>=2.5.0
+psutil>=5.9.0
+zstandard>=0.21.0
+protobuf>=4.24.0
+
+# 유틸리티
+pyyaml>=6.0
+unitypy
